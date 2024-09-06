@@ -1,0 +1,3 @@
+displayName = Reforge QTE
+author = TacoConKvass
+version = 0.1
